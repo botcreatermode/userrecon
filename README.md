@@ -1,6 +1,6 @@
 # UserRecon v1.0
 # Author: @thelinuxchoice
-# https://github.com/GabrielGymkhanaCGN/userrecon
+# https://github.com/botcreatermode/userrecon
 
 Find usernames across over 75 social networks
 This is useful if you are running an investigation to determine the usage of the same username on different social networks.
@@ -13,7 +13,7 @@ This is useful if you are running an investigation to determine the usage of the
 
 
 
-git clone https://github.com/AbirHasan2005/UserRecon
+git clone https://github.com/botcreatermode/UserRecon
 
 
 
