@@ -1,5 +1,5 @@
 # UserRecon v1.0
-# Author: @thelinuxchoice
+# Author: @botcreatermode
 # https://github.com/botcreatermode/userrecon
 
 Find usernames across over 75 social networks
